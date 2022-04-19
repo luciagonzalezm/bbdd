@@ -10,7 +10,7 @@ Tareas a realizar para elaborar la base de datos:
      suposiciones o aclaraciones que se consideren oportunas.
      
   2. Siguiendo el enunciado anterior, elaborar el modelo E/R que recoja toda la semántica 
-     expresada en el enunciado del apartado anterior, especificando aquella parte de esta que no se haya podido recoger. Dicho modelo se elaboró utilizando la aplicación      para elaborar diagramas de estructura dia.
+     expresada en el enunciado del apartado anterior, especificando aquella parte de esta que no se haya podido recoger. Dicho modelo se diseñó utilizando la aplicación      para confeccionar diagramas de estructura **dia**.
      
   3. A partir del modelo E/R realizado, obtener el correspondiente modelo relacional, con el 
      diseño de tablas y sus relaciones, así como las restricciones de integridad y las opciones de 
@@ -24,6 +24,6 @@ Tareas a realizar para elaborar la base de datos:
   5. Escribir una serie de consultas (consultas multitabla, consultas de resumen 
      de datos y subconsultas) y rutinas (procedimientos almacenados, funciones almacenadas y triggers) a la base de datos.
 
-  6. Implementar la base de datos en el SGBD MySQL Workbench.
+  6. Implementar la base de datos en el SGBD **MySQL Workbench**.
 # Licencia
 El software ha sido desarrollado bajo la licencia GPL3 por Lucía González.
