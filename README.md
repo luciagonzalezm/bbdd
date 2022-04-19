@@ -10,7 +10,7 @@ Tareas a realizar para elaborar la base de datos:
      suposiciones o aclaraciones que se consideren oportunas.
      
   2. Siguiendo el enunciado anterior, elaborar el modelo E/R que recoja toda la semántica 
-     expresada en el enunciado del apartado anterior, especificando aquella parte de esta que no se haya podido recoger.
+     expresada en el enunciado del apartado anterior, especificando aquella parte de esta que no se haya podido recoger. Dicho modelo se elaboró utilizando la aplicación      para elaborar diagramas de estructura dia.
      
   3. A partir del modelo E/R realizado, obtener el correspondiente modelo relacional, con el 
      diseño de tablas y sus relaciones, así como las restricciones de integridad y las opciones de 
